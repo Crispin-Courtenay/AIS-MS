@@ -1,0 +1,23 @@
+{
+  "name": "winebot",
+  "version": "1.0.0",
+  "description": "MS Test Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crispin-Courtenay/AIS-MS.git"
+  },
+  "keywords": [
+    "master",
+    "git"
+  ],
+  "author": "Crispin Courtenay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crispin-Courtenay/AIS-MS/issues"
+  },
+  "homepage": "https://github.com/Crispin-Courtenay/AIS-MS#readme"
+}
