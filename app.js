@@ -1,5 +1,5 @@
-var restify = require('restify');
-var builder = require('botbuilder');
+//var restify = require('restify');
+//var builder = require('botbuilder');
 // https://blogs.msdn.microsoft.com/sarahsays/2015/08/31/building-your-first-node-js-app-and-publishing-to-azure/
 var express = require('express');
 var app = express();
